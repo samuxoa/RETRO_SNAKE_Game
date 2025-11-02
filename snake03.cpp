@@ -3,7 +3,6 @@
 #include<stdlib.h>
 using namespace std;
 
-//testing
 
 bool gameover;
 const int width=20;
